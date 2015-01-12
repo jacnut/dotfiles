@@ -46,3 +46,6 @@
 
 [push]
 	default = simple
+[user]
+	email = jacnut@gmail.com
+	name = "Jacques De Liedekerke"
